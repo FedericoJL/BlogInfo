@@ -35,8 +35,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'apps.noticia',
     'apps.comentario',
-    'apps.usuario'
-    'ckeditor'
+    'apps.usuario',
+    'ckeditor',
 ]
 
 MIDDLEWARE = [
